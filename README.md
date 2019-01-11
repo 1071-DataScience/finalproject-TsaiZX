@@ -14,7 +14,7 @@ You should provide an example commend to reproduce your result
 python ./prepare_data.py  order_file_name.csv group_file_name.csv airline_file_name.csv training-set.csv data.csv
 ```
 ```run python
-python ./run.py data.csv output_file.csv folds
+python ./run.py data.csv output_file.csv [folds]
 ```
 * any on-line visualization
 
